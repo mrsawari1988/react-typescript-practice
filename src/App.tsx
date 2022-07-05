@@ -4,7 +4,7 @@ import ColorPicker from './components/ColorPicker';
 import EditName from './components/EditName';
 import Hello from './components/Hello';
 import MembersTable from './components/MembersTable';
-import SideBar from './components/SideBar';
+import SideBar from './components/Sidebar';
 import { Color } from './types/Color';
 
 function App() {
