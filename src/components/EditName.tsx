@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 type editNameProps = {
     editingName: string;
     initalUserName: string;

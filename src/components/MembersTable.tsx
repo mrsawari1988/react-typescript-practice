@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { getMembersCollection } from '../api/memberApi';
+//import { getMembersCollection } from '../api/memberApi';
 import { Members } from '../api/newMemberApi';
 import { Member } from '../types/Member';
 import MemberRow from './MemberRow';

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Member } from './../types/Member';
 
 export default function MemberRow({ member }: { member: Member }) {

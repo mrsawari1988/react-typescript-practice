@@ -1,4 +1,3 @@
-import React from 'react';
 import { Color } from '../types/Color';
 interface Props {
     color: Color;
